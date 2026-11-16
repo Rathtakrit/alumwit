@@ -10,6 +10,8 @@ This repo is public. Anyone can read every file, issue, pull request and commit,
   requests, screenshots or commit messages. Make up people.
 - Send real alumni data to an AI model provider.
 - Commit secrets: keys, tokens, passwords or `.env` files.
+- Write about anything outside the code: contact with the school or the association, money, or plans that aren't
+  public. This repo is for coding only.
 - Choose a framework, database or host. The stack isn't decided, so ask the owner.
 - Change who can log in or who can see what without the owner's written OK on that pull request.
 
